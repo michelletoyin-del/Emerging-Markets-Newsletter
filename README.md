@@ -27,8 +27,8 @@ Why does Nigeria's agricultural sector attract such a small share of investment 
 | File | Description |
 |--------|--------|
 | nigerian_agriculture_analysis.ipynb | Main analysis notebook |
-| agriculture_share_of_capital_importation.png | Agriculture's share of total capital importation |
-| nigeria_total_capital_importation.png | Total capital inflows into Nigeria |
+| agriculture share of capital importation.png | Agriculture's share of total capital importation |
+| agriculture share of capital importation (dollars).png | Agriculture's share of capital importation (dollars) |
 | README.md | Project documentation |
 
 ## Data Sources
